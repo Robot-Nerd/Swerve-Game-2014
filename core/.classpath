@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Cory/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.0.1/f98975f65ecc1e68f9d626e6f850457e17d6604a/gdx-1.0.1-sources.jar" kind="lib" path="C:/Users/Cory/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.0.1/ebd13341e1f7bf0139baf26aaef195a00677d7c3/gdx-1.0.1.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Cory/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-controllers/1.0.1/b790fce7b248e3251b96542dad800b2faebbc3d3/gdx-controllers-1.0.1-sources.jar" kind="lib" path="C:/Users/Cory/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-controllers/1.0.1/91f82d897d5741760606480a51cf203c069b394d/gdx-controllers-1.0.1.jar" exported="true"/>
+</classpath>
